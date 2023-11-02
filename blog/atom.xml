@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yihaiwuxiao.github.io/blog</id>
-    <title>怡海五小 Blog</title>
+    <title>怡海第五小学 Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yihaiwuxiao.github.io/blog"/>
-    <subtitle>怡海五小 Blog</subtitle>
+    <subtitle>怡海第五小学 Blog</subtitle>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://yihaiwuxiao.github.io/blog/welcome</id>
